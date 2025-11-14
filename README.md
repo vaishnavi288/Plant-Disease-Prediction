@@ -68,6 +68,10 @@ Each image belongs to a specific crop and disease type. Example categories inclu
 ---
 
 ## 🚀 How to Run
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/vaishnavi288/Plant-Disease-Prediction.git
+Upload the file plant_disease_prediction.ipynb to Google Colab
+trained model plant_disease_model.keras is stored in Google Drive.
+* https://drive.google.com/drive/folders/1KfcC4xt511VuvdLTH0q-FHIqYAlvw3OG?usp=sharing
+Load the Trained Model
+Upload a Leaf Image for Prediction
+Preprocess the Image and Predict the Disease
+View Output
